@@ -6,7 +6,6 @@
   padding: 2%;
 }
 .card {
-  /* Add shadows to create the "card" effect */
   display: flex;
   text-align: center;
   border-radius: 10px;
@@ -22,7 +21,6 @@
   -webkit-backdrop-filter: blur(4px);
 }
 
-/* On mouse-over, add a deeper shadow */
 .card:hover {
   box-shadow: 0 8px 16px 0 rgba(19, 2, 245, 0.2);
   background-color: aqua;

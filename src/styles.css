@@ -60,9 +60,8 @@ body {
   align-items: center;
   flex-wrap: wrap;
 }
-#main{
+#main {
   display: flex;
   justify-content: center;
   position: static;
-
 }
