@@ -1,3 +1,5 @@
+import "./styles.css";
+import "./card.css";
 const api = `https://randomuser.me/api`;
 const addUser = document.getElementById("user-btn");
 const userList = document.getElementById("user-list");
