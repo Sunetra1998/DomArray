@@ -1,2 +1,2 @@
-# domArray
+# DOMArrayMethodsInJS
 Created with CodeSandbox
